@@ -1,0 +1,44 @@
+{
+  "id": "2079815",
+  "name": "lightning-ui",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14859248",
+      "name": "menu",
+      "font_class": "menu",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "17309264",
+      "name": "ts-lightning",
+      "font_class": "lightning",
+      "unicode": "e79a",
+      "unicode_decimal": 59290
+    },
+    {
+      "icon_id": "2699663",
+      "name": "light 灯泡",
+      "font_class": "light",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "6496026",
+      "name": "Vue",
+      "font_class": "vue",
+      "unicode": "e799",
+      "unicode_decimal": 59289
+    },
+    {
+      "icon_id": "13304114",
+      "name": "typescript",
+      "font_class": "ts",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    }
+  ]
+}
